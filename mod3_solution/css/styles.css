@@ -1,0 +1,26 @@
+#header-nav {
+  background-color: #A1A69F;
+}
+.navbar-default .navbar-brand {
+  color: #000000;
+}
+#collapse-buttons {
+  padding: 0;
+}
+#nav-list {
+  margin: 0;
+}
+#nav-list li a {
+  color: #000000;
+  background-color: #947B9E;
+  border-top: 1px solid #000000;
+}
+#nav-list li a:hover {
+  color: #000000;
+  background-color: #fcfcfc;
+  border-top: 1px solid #000000;
+}
+#main-content {
+  min-height: 1800px;
+  background-color: #859E7B
+}
